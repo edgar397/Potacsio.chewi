@@ -1,0 +1,57 @@
+body{
+    font-family: Verdana;
+}
+li{
+    box-shadow: rgba(148, 23, 250, 0.829) 6px 6px 6px;
+box-shadow: rgba(147, 112, 216, 0.603) 8px 8px 8px;
+}
+
+/* Estilos generales */
+nav ul{
+    list-style: none;
+    padding: 0;
+   
+}
+nav li{
+    line-height: 4.7rem;
+    position: relative;
+    
+}
+ 
+nav li ul{
+    position: absolute;
+}
+nav a{
+    color: rgb(13, 5, 49);
+    display: block;
+    padding: 0 4.5em;
+    text-decoration: none;
+    transition: .4s;
+   
+}
+nav a:hover{
+    background: rgba(55, 15, 202, 0.432);
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.521) 3px 3px 3px;
+    color: rgb(255, 255, 255);
+    
+}
+nav li ul{
+    display: none;
+}
+nav li:hover ul{
+    display: block;
+}
+nav ul:hover  {
+    margin: 14px 18px 20px 15px;
+
+}
+
+/* PRIMER NUVEL */
+
+nav > ul {
+    transition: .8s;
+    background: rgba(81, 9, 175, 0.932);
+    display: table;
+    
+}

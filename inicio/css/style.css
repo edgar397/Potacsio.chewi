@@ -1,0 +1,22 @@
+#menu{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+ #menu a{
+     text-decoration: none;
+     color: black;
+     
+     
+ }
+
+ #menu button{
+     background-color: rgba(255, 250, 250, 0.74);
+     box-shadow: 3px 0px 10px rgba(0, 0, 0, 0.747);
+     display: table;
+     padding: 1.1rem 3rem;
+     line-height: 4.7rem;
+ }
+
+ 
+ 
+ 

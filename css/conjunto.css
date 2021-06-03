@@ -1,0 +1,329 @@
+/*GENERAL*/
+#benin{
+    background:rgba(11, 22, 175, 0.918) ;
+    color: rgba(0, 0, 0, 0.884);
+}
+
+h1{
+    font-family: Arial;
+    font-size: 35pt;
+}
+h2{
+    font-family: Arial;
+    font-size: 17pt;
+}
+
+/*MARGEN*/
+#margen{
+    margin-left: 5%;
+    margin-right: 5%;
+    
+    background-color: rgba(19, 69, 233, 0.89);
+}
+
+/*CARLOS*/
+#carlos ul{
+    list-style: none;
+    padding: 0;
+  
+    
+}
+ #carlos li{
+    line-height: 4.5rem;
+    column-width: 6rem;
+    position:relative;
+
+}
+ #carlos li ul{
+    position: absolute;
+}
+ #carlos a{
+    color: rgba(23, 80, 202, 0.918);
+    display: block;
+    padding: 0 4.5em;
+    text-decoration: none;
+    transition: .4s;
+    
+   
+}
+#carlos a:hover{
+    background: rgba(57, 19, 224, 0.596);
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.884) 0px 0px 12px;
+    color: rgb(255, 255, 255);
+}
+#carlos li ul{
+    display: none;
+}
+#carlos li:hover ul{
+    display: block;
+}
+#carlos ul:hover  {
+    margin: 15px 18px 20px 15px;
+  
+}
+/* PRIMER NUVEL */
+
+#contenido > ul {
+    transition: .8s;
+    background: rgba(14, 5, 97, 0.863);
+    display: table;
+    
+}
+
+/*legustaria*/
+#forma2{
+background-color: rgba(17, 110, 216, 0.945);
+}
+
+
+
+/*margen2*/
+#margen2{
+    margin-left: 5%;
+    margin-right: 5%;
+    
+    background-color: rgba(81, 226, 100, 0.986);
+}
+/*GN*/
+#carlos_le ul{
+    list-style: none;
+    padding: 0;
+  
+    
+}
+ #carlos_le li{
+    line-height: 4.5rem;
+    column-width: 6rem;
+    position:relative;
+
+}
+ #carlos_le li ul{
+    position: absolute;
+}
+ #carlos_le a{
+    color: rgb(8, 12, 202);
+    display: block;
+    padding: 0 4.5em;
+    text-decoration: none;
+    transition: .4s;
+    
+   
+}
+#carlos_le a:hover{
+    background: rgba(7, 57, 150, 0.692);
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.671) 3px 3px 3px;
+    color: rgb(255, 240, 240);
+}
+#carlos_le li ul{
+    display: none;
+}
+#carlos_le li:hover ul{
+    display: block;
+}
+#carlos_le ul:hover  {
+    margin: 15px 18px 20px 15px;
+  
+}
+/* PRIMER NUVEL */
+
+#contenido > ul {
+    transition: .8s;
+    background: rgba(13, 14, 102, 0.993);
+    display: table;
+    
+}
+
+
+
+
+
+
+
+/*MIGUEL*/
+#alto{
+    background-color: rgba(34, 139, 34, 0.774);
+
+}
+#marc{
+    margin-left: 10%;
+    margin-right: 10%;
+    background: rgba(50, 205, 50, 0.836);
+}
+
+#miguel ul{
+    list-style: none;
+    padding: 0;
+  
+    
+}
+ #miguel li{
+    line-height: 4.5rem;
+    column-width: 6rem;
+    position: relative;
+
+}
+ #miguel li ul{
+    position: absolute;
+}
+ #miguel a{
+    color: rgb(5, 44, 4);
+    display: block;
+    padding: 0 4.5rem;
+    text-decoration: none;
+    transition: .4s;
+}
+#miguel a:hover{
+    background: rgba(135, 224, 19, 0.596);
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.671) 3px 3px 3px;
+    color: rgba(255, 255, 255, 0.781);
+}
+#miguel li ul{
+    display: none;
+}
+#miguel li:hover ul{
+    display: block;
+}
+#miguel ul:hover  {
+    margin: 16px 18px 20px 15px;
+  
+}
+/* PRIMER NUVEL */
+
+#text > ul {
+    transition: .8s;
+    background: rgba(39, 139, 14, 0.877);
+    display: table;
+    
+}
+
+
+/*JOSUE*/
+html{
+    box-shadow: rgba(196, 222, 233, 0.363) 3px 4px 5px;
+}
+#form4{
+    background-color: rgb(0, 0, 0);
+    color:snow;
+    box-shadow: rgba(248, 248, 248, 0.048) 4px 6px 8px;
+}
+#marg{
+    margin-left: 10%;
+    margin-right: 10%;
+    background: rgba(51, 50, 50, 0.582);
+    box-shadow: rgba(255, 250, 250, 0.493) 3px 4px 6px;
+}
+
+#josue ul{
+    list-style: none;
+    padding: 0;
+  
+    
+}
+ #josue li{
+    line-height: 4.5rem;
+    column-width: 6rem;
+    position: relative;
+
+}
+ #josue li ul{
+    position: absolute;
+}
+ #josue a{
+    color: rgb(255, 255, 255);
+    display: block;
+    padding: 0 4.5rem;
+    text-decoration: none;
+    transition: .4s;
+}
+#josue a:hover{
+    background: rgba(48, 44, 44, 0.596);
+    transition: 1s;
+    box-shadow: rgba(255, 255, 255, 0.603) 3px 3px 3px;
+    color: rgb(0, 153, 255);
+}
+#josue li ul{
+    display: none;
+}
+#josue li:hover ul{
+    display: block;
+}
+#josue ul:hover  {
+    margin: 16px 18px 20px 15px;
+  
+}
+/* PRIMER NUVEL */
+
+#texto > ul {
+    transition: .8s;
+    background: rgba(0, 0, 0, 0.685);
+    display: table;
+    
+}
+
+/*PAUL*/
+html{
+    box-shadow: rgba(196, 222, 233, 0.185) 3px 4px 5px;
+}
+#pou{
+    background-color: rgba(228, 15, 15, 0.897);
+    color:snow;
+    box-shadow: rgba(248, 248, 248, 0.233) 4px 6px 8px;
+}
+#margin{
+    margin-left: 10%;
+    margin-right: 10%;
+    background: rgba(214, 16, 42, 0.658);
+    box-shadow: rgba(190, 13, 81, 0.781) 3px 4px 6px;
+}
+
+#paul ul{ 
+    list-style: none;
+    padding: 0;
+  
+    
+}
+ #paul li{
+    line-height: 4.5rem;
+    column-width: 6rem;
+    position: relative;
+
+}
+ #paul li ul{
+    position: absolute;
+}
+ #paul a{
+    color: rgb(22, 22, 22);
+    display: block;
+    padding: 0 4.5rem;
+    text-decoration: none;
+    transition: .4s;
+}
+#paul a:hover{
+    background: rgba(172, 20, 20, 0.918);
+    transition: 1s;
+    box-shadow: rgba(209, 3, 3, 0.76) 3px 3px 3px;
+    color: rgb(255, 255, 255);
+}
+#paul li ul{
+    display: none;
+}
+#paul li:hover ul{
+    display: block;
+}
+#paul ul:hover  {
+    margin: 16px 18px 20px 15px;
+  
+}
+/* PRIMER NUVEL */
+
+#container > ul {
+    transition: .8s;
+    background: rgba(143, 6, 6, 0.5);
+    display: table;
+    
+}
+
+/*EDGAR*/

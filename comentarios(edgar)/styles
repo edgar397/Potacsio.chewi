@@ -1,0 +1,116 @@
+Ignoren
+ paul: 
+ background-color: rgba(247, 8, 87, 0.603);
+ box-shadow: rgba(90, 90, 90, 0.555)3px 5px 5px;"
+
+ miguel: 
+ background-color: rgba(88, 206, 84, 0.671);
+ box-shadow: rgba(61, 119, 3, 0.541) 3px 5px 5px;
+
+ carlos:
+ background-color:rgba(255, 196, 0, 0.822);
+ box-shadow: rgba(139, 137, 19, 0.644) 3px 5px 5px;
+ 
+ josue:
+ background-color: rgba(17, 0, 255, 0.658);
+ box-shadow: rgba(17, 0, 255, 0.493)4px 5px 5px;
+
+
+ edgar:
+ background-color: rgba(78, 19, 134, 0.616); 
+ box-shadow: rgba(38, 11, 63, 0.685) 3px 5px 5px;
+
+ efecto visual en secundarios CSS  :
+
+ nav li:hover {
+    margin: 14px 18px 20px 15px;
+ }
+ /en generales xdxxdxd/
+
+ rgba(68, 0, 255, 0.938)
+
+////////////////////////////////////////////////////////
+ Tabla=tipo
+ hobby
+ lo que me gustaria
+ lo que no
+ prueva
+ *
+ menu principal = proyecto = tipo/nombres 
+ subtitulos
+
+
+/////////////////////Apd/////////////////////////////////
+ Niveles son los que tienen ... asi:
+ ul> (nivel1)
+  li> (nivel 1)
+     <li></li>(sub titulo)
+     <li></li>(sub titulo) infinita mente
+  /li> (se acaba nivel 1. lo mismo con el N2 )
+ ul>
+
+ O como en proyecto 1 como esta hecho (mejorado)       
+ -hover css se refiere a todo dentro de este        
+
+////////////llevo hecho/////////////////////////////////////////   ////terminado////
+ -una simplificacion de las hojas de estilo 5/5 C:4/4 J:4/4 m:4/4 p:0/4 e:0/4   listo
+ -mandar todo lo que venga en html a css   3/4      4/4
+ -una idea de la seleccion    perfect
+ -tabla 4/4 -0/4    4/4
+ -
+
+//////////////////////IDEAS Edgar//////////////////////////////////////////
+ -En css secundario lo repetire con las demas pero que sea con el tipo. eligitan el nombre pero cada tabla sera diferente
+ -En el tipo que tenga un separador que en el venga un scrit que le mande información sobre este.
+ -Que en el inicio ya nadamas venga pues los html. de cada uno.
+ -que los regresos ya no te manden a la tabla sino al inicio; por que se hara un acesso directo.
+ -Los colores del html o body sean diferentes al cuadro
+ -Centrar el menu
+ -Hacer los shadow a inicio (se ve feito, ) y que los subtitulos 
+ -un logo? (muy poco probable ya que este no necesita pero puede tener)
+ -script de mandar informacion creo que estaba en cal.scripts me puedo basar en el
+ -unos marcos ¿frame? o itemframe no se si en css o html para el inicio y la informacion de html
+ -ver que hacer con el inicio (boton) 
+ -divs de la tabla (informacion directa)
+ -Ver si en los scripts para el div si se puede hacer una coneccion [que la informacion se mande al script, del script al div] (seleccion de nombre; 
+ nombre/html al script, que guarde la informacion o que ponga yo esa informacion y que la envie denuevo pero al div que va estar enseguida de el )
+ -mejoras en los titulos, subtitulos
+ -ponerle el nombre respectivo a cada tabla
+ borrar lo que no se necesite
+ -cambiarle el nombre a la carpeta -es una copia-
+ -cambiar los tipos restantes de estructura se ve mal
+ -que una carpeta tenga css para informacion de cada integrante y cambiarlo(8, o menos), y otra para las tablitas en total son 4 
+ -reducir (edgar) los css a id en body para que tengan un mismo css pero diferentes estilos 
+ -que tengan 1 solo link de css >:v
+ -Ordenarlos para que quede mas limpio
+ -intentar que en el menu no salgan esas lineas de vacio entre cada opcion 
+ -cambiar colores
+ -el prepos fuera igual
+ -la carpeta de img tampoco se ocupa
+ -buscar como cambiar el simbolo o el logo que aparece en document(  )[ventana] 
+ -en inicio no va a cambiar el color solo cuando el mouse este sobre el 
+ relativo 
+
+ -- PONER ID="TEXT" EN LA INFORMACION DE formulario PARA QUE TENGAN EL MISMO TIPO DE LETRA Y OTROS CON 2 ID
+
+//////////////////////////////compañeros y maestro ideas//////////////////////////////////////////////////////
+ /////////////problablemente muchas no las haga por estetica o por estres/////////////////////////////////
+ ///////////aviso NO se trata de hacer todas a la fuerza//////////////////////
+ //////////////////este fue del avance 2 para el 3 o final yo que se/////////////////////////////////////////
+ -- Estetica
+ -color
+ -formulario  (._. no creo pero puede que sea)
+ -leer lo anterior (por mi)
+         hay cosas interesantes son ideas que llegan)
+         ordenado y limpio
+ <-- si no las puse significa que ya lo hice o no esta xd -->
+ -/-/-/-/-/-/-//-/-/-/-/-/-//-//-/--/-//-/-//-/-/-/-/-/-/-///-//---//-//-/-/-//-/-//-/-/--/-//-/-/-////--//-/-//-///-//--//-/--/-/--//-/-/-/-
+ modificado 11/05
+ intento de mañana de mejorar
+ cansaisimo 
+ ._.
+
+
+//////////button//////
+ <button type="submit" class="formulario__btn">Enviar</button>
+				<p class="formulario__mensaje-exito" id="formulario__mensaje-exito" ref="/ProyectosP/Proyecto1.html">Formulario enviado exitosamente!</p>

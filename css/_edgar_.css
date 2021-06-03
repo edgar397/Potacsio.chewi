@@ -1,0 +1,73 @@
+html{
+    box-shadow: rgba(122, 12, 155, 0.959) 3px 4px 5px;
+    
+}
+h1{
+    font-family: Arial;
+    font-size: 35pt;
+    text-shadow: rgb(168, 36, 255) 2px 2px 3px;
+}
+h2{
+    font-family: Arial;
+    font-size: 16pt;
+    text-shadow: rgb(197, 111, 255) 0px 0px 20px;
+}
+#cuerpo{
+    background: url(/img/64-649683_wallpaper-hd-1080p-black-and-white-moon-super.jpg);
+    color:snow;
+    box-shadow: rgb(0, 0, 0) 0px 0px 200px;
+}
+#marco{
+    margin-left: 10%;
+    margin-right: 10%;
+    background: rgba(97, 6, 158, 0.918);
+    box-shadow: rgba(52, 0, 77, 0.822) 40px 0px 50px;
+}
+
+#Edgar ul{
+    list-style: none;
+    padding: 0;
+  
+    
+}
+ #Edgar li{
+    line-height: 4.5rem;
+    position: relative;
+
+}
+ #Edgar li ul{
+    position: absolute;
+}
+ #Edgar a{
+    color: rgb(255, 255, 255);
+    display: block;
+    text-shadow: 5px 0px 17px rgb(0, 0, 0);
+    padding: 0 4.5rem;
+    text-decoration: none;
+    transition: .4s;
+}
+#Edgar a:hover{
+    background: rgba(73, 13, 168, 0.726);
+    transition: 1.2s;
+    box-shadow: rgba(168, 18, 228, 0.87) 0px 0px 15px;
+    color: rgba(151, 0, 88, 0.801);
+    text-shadow: 5px 0px 15px rgba(255, 106, 248, 0.822);
+}
+#Edgar li ul{
+    display: none;
+}
+#Edgar li:hover ul{
+    display: block;
+}
+#Edgar ul:hover  {
+    margin: 16px 18px 20px 15px;
+  
+}
+/* PRIMER NUVEL */
+
+#text > ul {
+    transition: .8s;
+    background:rgba(29, 3, 122, 0.616);
+    display: table;
+    
+}

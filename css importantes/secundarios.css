@@ -1,0 +1,55 @@
+body{
+    font-family: Verdana;
+    background-origin:padding-box;
+}
+li{box-shadow: 1px 0px 31px rgba(224, 13, 31, 0.76) ;}
+
+/* Estilos generales */
+nav ul{
+    list-style: none;
+    padding: 0;
+   
+}
+nav li{
+    line-height: 4rem;
+    position: relative;
+    
+}
+
+nav li ul{
+    position: absolute;
+}
+nav a{
+    color: rgba(221, 221, 221, 0.788);
+    display: block;
+    padding: 0 3.9em;
+    text-decoration: none;
+    transition: .6s;
+   
+}
+nav a:hover{
+    background: rgba(223, 57, 7, 0.582);
+    transition: 1.3s;
+    box-shadow: 6px 0px 10px rgba(223, 154, 5, 0.74) ;
+    color: rgb(0, 0, 0);
+}
+nav li ul{
+    display: none;
+}
+nav li:hover ul{
+    display: block;
+}
+nav ul:hover  {
+    margin: 14px 18px 20px 15px;
+    text-shadow: 4px 0px 12px rgba(177, 174, 4, 0.904) ;
+}
+
+/* PRIMER NUVEL */
+ 
+nav > ul {
+    transition: .8s;
+    background: rgba(241, 2, 2, 0.644);
+    display: table;
+    
+}
+
